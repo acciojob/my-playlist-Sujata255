@@ -2,7 +2,7 @@ body {
     background-color: rgb(204, 204, 204);
 }
 
-.player_one,.player_two  {
+.player_one  {
     background-color: rgb(255, 255, 255);
     padding: 2px;
     border-radius: 5px;
@@ -10,11 +10,14 @@ body {
 	border:2px solid black;
 	
 }
+.player_one p{
+	margin-right:150px;
+	margin-top:15px;
+}
 .song{
 	background-color: rgb(255, 255, 255);
     padding: 2px;
     border-radius: 5px;
-	text-align:center;
 	border:2px solid black;
 }
-}
+
