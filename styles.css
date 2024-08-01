@@ -2,9 +2,19 @@ body {
     background-color: rgb(204, 204, 204);
 }
 
-.player_one, .player_two {
+.player_one,.player_two  {
     background-color: rgb(255, 255, 255);
-    padding: 10px;
-    border-radius:   
- 5px;
+    padding: 2px;
+    border-radius: 5px;
+	text-align:center;
+	border:2px solid black;
+	
+}
+.song{
+	background-color: rgb(255, 255, 255);
+    padding: 2px;
+    border-radius: 5px;
+	text-align:center;
+	border:2px solid black;
+}
 }
